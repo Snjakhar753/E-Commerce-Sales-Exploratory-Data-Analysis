@@ -2,14 +2,7 @@
 
 ## 1.Aim :
 
-1. Which shipping mode is most frequently utilized for order deliveries?
-
-2. Which product category has highest profit sales?
-
-3. To analyise the market trend over the years?
-
-4. States with highest and lowest sales?
-
+Generate sales and profit insight of Superstore products across USA and thereby suggest methods to increase operating margin (overall profit).To suggest the areas for improvement the sales and the buiseness .
 
 ## 2. Data Overview: 
 - USA Superstore dataset : 2010-2013
