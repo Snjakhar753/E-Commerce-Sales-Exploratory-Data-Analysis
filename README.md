@@ -1,4 +1,4 @@
-# Exploratory Dara Analysis of USA Supestore
+# Exploratory Data Analysis of USA Supestore
 
 ## 1.Aim :
 
